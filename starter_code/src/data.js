@@ -67,7 +67,7 @@ var movies = [
     title: 'Il buono, il brutto, il cattivo',
     year: '1966',
     director: 'Sergio Leone',
-    duration: '3h 2min',
+    duration: '3h 02min',
     genre: ['Western'],
     rate: '8.9'
   },
@@ -99,7 +99,7 @@ var movies = [
     title: 'Star Wars: Episode V - The Empire Strikes Back',
     year: '1980',
     director: 'Irvin Kershner',
-    duration: '2h 4min',
+    duration: '2h 04min',
     genre: ['Action', 'Adventure', 'Fantasy', 'Sci-Fi'],
     rate: '8.8'
   },
@@ -155,7 +155,7 @@ var movies = [
     title: 'Star Wars',
     year: '1977',
     director: 'George Lucas',
-    duration: '2h 1min',
+    duration: '2h 01min',
     genre: ['Action', 'Adventure', 'Fantasy', 'Sci-Fi'],
     rate: '8.7'
   },
@@ -171,7 +171,7 @@ var movies = [
     title: 'Se7en',
     year: '1995',
     director: 'David Fincher',
-    duration: '2h 7min',
+    duration: '2h 07min',
     genre: ['Crime', 'Drama', 'Mystery', 'Thriller'],
     rate: '8.6'
   },
@@ -227,7 +227,7 @@ var movies = [
     title: 'Sen to Chihiro no kamikakushi',
     year: '2001',
     director: 'Hayao Miyazaki',
-    duration: '2h 5min',
+    duration: '2h 05min',
     genre: ['Animation', 'Adventure', 'Family', 'Fantasy', 'Mystery'],
     rate: '8.6'
   },
@@ -267,7 +267,7 @@ var movies = [
     title: 'The Green Mile',
     year: '1999',
     director: 'Frank Darabont',
-    duration: '3h 9min',
+    duration: '3h 09min',
     genre: ['Crime', 'Drama', 'Fantasy', 'Mystery'],
     rate: '8.5'
   },
@@ -411,7 +411,7 @@ var movies = [
     title: 'The Great Dictator',
     year: '1940',
     director: 'Charles Chaplin',
-    duration: '2h 5min',
+    duration: '2h 05min',
     genre: ['Comedy', 'Drama', 'War'],
     rate: '8.5'
   },
@@ -499,7 +499,7 @@ var movies = [
     title: 'American Beauty',
     year: '1999',
     director: 'Sam Mendes',
-    duration: '2h 2min',
+    duration: '2h 02min',
     genre: ['Drama', 'Romance'],
     rate: '8.4'
   },
@@ -523,7 +523,7 @@ var movies = [
     title: 'Oldeuboi',
     year: '2003',
     director: 'Chan-wook Park',
-    duration: '2h',
+    duration: '2h 00min',
     genre: ['Action', 'Drama', 'Mystery', 'Thriller'],
     rate: '8.4'
   },
@@ -579,7 +579,7 @@ var movies = [
     title: 'Vertigo',
     year: '2001',
     director: 'Alfred Hitchcock',
-    duration: '2h 8min',
+    duration: '2h 08min',
     genre: ['Mystery', 'Romance', 'Thriller'],
     rate: '8.4'
   },
@@ -635,7 +635,7 @@ var movies = [
     title: 'Le fabuleux destin d\'Amélie Poulain',
     year: '2001',
     director: 'Jean-Pierre Jeunet',
-    duration: '2h 2min',
+    duration: '2h 02min',
     genre: ['Comedy', 'Romance'],
     rate: '8.4'
   },
@@ -707,7 +707,7 @@ var movies = [
     title: 'To Kill a Mockingbird',
     year: '1962',
     director: 'Robert Mulligan',
-    duration: '2h 9min',
+    duration: '2h 09min',
     genre: ['Crime', 'Drama'],
     rate: '8.3'
   },
@@ -763,7 +763,7 @@ var movies = [
     title: 'The Sting',
     year: '1973',
     director: 'George Roy Hill',
-    duration: '2h 9min',
+    duration: '2h 09min',
     genre: ['Comedy', 'Crime', 'Drama'],
     rate: '8.3'
   },
@@ -795,7 +795,7 @@ var movies = [
     title: 'The Kid',
     year: '1921',
     director: 'Charles Chaplin',
-    duration: '1h 8min',
+    duration: '1h 08min',
     genre: ['Comedy', 'Drama', 'Family'],
     rate: '8.3'
   },
@@ -819,7 +819,7 @@ var movies = [
     title: 'Good Will Hunting',
     year: '1997',
     director: 'Gus Van Sant',
-    duration: '2h 6min',
+    duration: '2h 06min',
     genre: ['Drama'],
     rate: '8.3'
   },
@@ -859,7 +859,7 @@ var movies = [
     title: 'The Apartment',
     year: '1960',
     director: 'Billy Wilder',
-    duration: '2h 5min',
+    duration: '2h 05min',
     genre: ['Comedy', 'Drama', 'Romance'],
     rate: '8.3'
   },
@@ -875,7 +875,7 @@ var movies = [
     title: 'Jodaeiye Nader az Simin',
     year: '2011',
     director: 'Asghar Farhadi',
-    duration: '2h 3min',
+    duration: '2h 03min',
     genre: ['Drama', 'Mystery'],
     rate: '8.4'
   },
@@ -891,7 +891,7 @@ var movies = [
     title: 'Indiana Jones and the Last Crusade',
     year: '1989',
     director: 'Steven Spielberg',
-    duration: '2h 7min',
+    duration: '2h 07min',
     genre: ['Action', 'Adventure', 'Fantasy'],
     rate: '8.3'
   },
@@ -939,7 +939,7 @@ var movies = [
     title: 'Some Like It Hot',
     year: '1959',
     director: 'Billy Wilder',
-    duration: '2h 1min',
+    duration: '2h 01min',
     genre: ['Comedy', 'Romance'],
     rate: '8.3'
   },
@@ -947,7 +947,7 @@ var movies = [
     title: 'The Treasure of the Sierra Madre',
     year: '1948',
     director: 'John Huston',
-    duration: '2h 6min',
+    duration: '2h 06min',
     genre: ['Adventure', 'Drama', 'Western'],
     rate: '8.3'
   },
@@ -979,7 +979,7 @@ var movies = [
     title: 'Raging Bull',
     year: '1980',
     director: 'Martin Scorsese',
-    duration: '2h 9min',
+    duration: '2h 09min',
     genre: ['Biography', 'Drama', 'Sport'],
     rate: '8.2'
   },
@@ -1075,7 +1075,7 @@ var movies = [
     title: 'El secreto de sus ojos',
     year: '2009',
     director: 'Juan José Campanella',
-    duration: '2h 9min',
+    duration: '2h 09min',
     genre: ['Drama', 'Mystery', 'Romance', 'Thriller'],
     rate: '8.2'
   },
@@ -1091,7 +1091,7 @@ var movies = [
     title: 'Judgment at Nuremberg',
     year: '1961',
     director: 'Stanley Kramer',
-    duration: '3h 6min',
+    duration: '3h 06min',
     genre: ['Drama', 'War'],
     rate: '8.3'
   },
@@ -1147,7 +1147,7 @@ var movies = [
     title: 'Mr. Smith Goes to Washington',
     year: '1939',
     director: 'Frank Capra',
-    duration: '2h 9min',
+    duration: '2h 09min',
     genre: ['Comedy', 'Drama'],
     rate: '8.2'
   },
@@ -1179,7 +1179,7 @@ var movies = [
     title: 'The Elephant Man',
     year: '1980',
     director: 'David Lynch',
-    duration: '2h 4min',
+    duration: '2h 04min',
     genre: ['Biography', 'Drama'],
     rate: '8.2'
   },
@@ -1203,7 +1203,7 @@ var movies = [
     title: 'The Wolf of Wall Street',
     year: '2013',
     director: 'Martin Scorsese',
-    duration: '3h',
+    duration: '3h 00min',
     genre: ['Biography', 'Comedy', 'Crime', 'Drama'],
     rate: '8.2'
   },
@@ -1211,7 +1211,7 @@ var movies = [
     title: 'The General',
     year: '1926',
     director: 'Clyde Bruckman',
-    duration: '1h 7min',
+    duration: '1h 07min',
     genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'War', 'Western'],
     rate: '8.2'
   },
@@ -1275,7 +1275,7 @@ var movies = [
     title: 'The Deer Hunter',
     year: '1978',
     director: 'Michael Cimino',
-    duration: '3h 3min',
+    duration: '3h 03min',
     genre: ['Drama', 'War'],
     rate: '8.2'
   },
@@ -1307,7 +1307,7 @@ var movies = [
     title: 'No Country for Old Men',
     year: '2007',
     director: 'Ethan Coen',
-    duration: '2h 2min',
+    duration: '2h 02min',
     genre: ['Crime', 'Drama', 'Thriller'],
     rate: '8.1'
   },
@@ -1323,7 +1323,7 @@ var movies = [
     title: 'Eskiya',
     year: '1996',
     director: 'Yavuz Turgul',
-    duration: '2h 8min',
+    duration: '2h 08min',
     genre: ['Crime', 'Drama', 'Thriller'],
     rate: '8.4'
   },
@@ -1355,7 +1355,7 @@ var movies = [
     title: 'Cool Hand Luke',
     year: '1967',
     director: 'Stuart Rosenberg',
-    duration: '2h 6min',
+    duration: '2h 06min',
     genre: ['Crime', 'Drama'],
     rate: '8.2'
   },
@@ -1379,7 +1379,7 @@ var movies = [
     title: 'La La Land',
     year: '2016',
     director: 'Damien Chazelle',
-    duration: '2h 8min',
+    duration: '2h 08min',
     genre: ['Comedy', 'Drama', 'Music', 'Musical', 'Romance'],
     rate: '8.2'
   },
@@ -1483,7 +1483,7 @@ var movies = [
     title: 'Relatos salvajes',
     year: '2014',
     director: 'Damián Szifron',
-    duration: '2h 2min',
+    duration: '2h 02min',
     genre: ['Comedy', 'Drama', 'Thriller'],
     rate: '8.1'
   },
@@ -1499,7 +1499,7 @@ var movies = [
     title: 'Platoon',
     year: '1986',
     director: 'Oliver Stone',
-    duration: '2h',
+    duration: '2h 00min',
     genre: ['Drama', 'War'],
     rate: '8.1'
   },
@@ -1507,7 +1507,7 @@ var movies = [
     title: 'Hotel Rwanda',
     year: '2004',
     director: 'Terry George',
-    duration: '2h 1min',
+    duration: '2h 01min',
     genre: ['Biography', 'Drama', 'History', 'War'],
     rate: '8.1'
   },
@@ -1523,7 +1523,7 @@ var movies = [
     title: 'Network',
     year: '1976',
     director: 'Sidney Lumet',
-    duration: '2h 1min',
+    duration: '2h 01min',
     genre: ['Drama'],
     rate: '8.1'
   },
@@ -1531,7 +1531,7 @@ var movies = [
     title: 'Rush',
     year: '2013',
     director: 'Ron Howard',
-    duration: '2h 3min',
+    duration: '2h 03min',
     genre: ['Action', 'Biography', 'Drama', 'History', 'Sport'],
     rate: '8.1'
   },
@@ -1603,7 +1603,7 @@ var movies = [
     title: 'Mad Max: Fury Road',
     year: '2015',
     director: 'George Miller',
-    duration: '2h',
+    duration: '2h 00min',
     genre: ['Action', 'Adventure', 'Sci-Fi', 'Thriller'],
     rate: '8.1'
   },
@@ -1611,7 +1611,7 @@ var movies = [
     title: 'Jurassic Park',
     year: '2000',
     director: 'Steven Spielberg',
-    duration: '2h 7min',
+    duration: '2h 07min',
     genre: ['Adventure', 'Sci-Fi', 'Thriller'],
     rate: '8.1'
   },
@@ -1619,7 +1619,7 @@ var movies = [
     title: 'Spotlight',
     year: '2015',
     director: 'Tom McCarthy',
-    duration: '2h 8min',
+    duration: '2h 08min',
     genre: ['Crime', 'Drama', 'History'],
     rate: '8.1'
   },
@@ -1739,7 +1739,7 @@ var movies = [
     title: 'The Grapes of Wrath',
     year: '1940',
     director: 'John Ford',
-    duration: '2h 9min',
+    duration: '2h 09min',
     genre: ['Drama', 'History'],
     rate: '8.1'
   },
@@ -1747,7 +1747,7 @@ var movies = [
     title: 'Rocky',
     year: '1976',
     director: 'John G. Avildsen',
-    duration: '2h',
+    duration: '2h 00min',
     genre: ['Drama', 'Sport'],
     rate: '8.1'
   },
@@ -1835,7 +1835,7 @@ var movies = [
     title: 'Barry Lyndon',
     year: '1975',
     director: 'Stanley Kubrick',
-    duration: '3h 4min',
+    duration: '3h 04min',
     genre: ['Adventure', 'Drama', 'History', 'War'],
     rate: '8.1'
   },
@@ -1883,7 +1883,7 @@ var movies = [
     title: 'Jaws',
     year: '1975',
     director: 'Steven Spielberg',
-    duration: '2h 4min',
+    duration: '2h 04min',
     genre: ['Adventure', 'Drama', 'Thriller'],
     rate: '8.0'
   },
@@ -1891,7 +1891,7 @@ var movies = [
     title: 'Twelve Monkeys',
     year: '1995',
     director: 'Terry Gilliam',
-    duration: '2h 9min',
+    duration: '2h 09min',
     genre: ['Mystery', 'Sci-Fi', 'Thriller'],
     rate: '8.0'
   },
@@ -1955,7 +1955,7 @@ var movies = [
     title: 'La battaglia di Algeri',
     year: '1966',
     director: 'Gillo Pontecorvo',
-    duration: '2h 1min',
+    duration: '2h 01min',
     genre: ['Drama', 'War'],
     rate: '8.1'
   },
@@ -1987,7 +1987,7 @@ var movies = [
     title: 'Dog Day Afternoon',
     year: '1975',
     director: 'Sidney Lumet',
-    duration: '2h 5min',
+    duration: '2h 05min',
     genre: ['Biography', 'Crime', 'Drama', 'Thriller'],
     rate: '8.0'
   },
@@ -1995,7 +1995,7 @@ var movies = [
     title: 'Dead Poets Society',
     year: '1989',
     director: 'Peter Weir',
-    duration: '2h 8min',
+    duration: '2h 08min',
     genre: ['Comedy', 'Drama'],
     rate: '8.0'
   }

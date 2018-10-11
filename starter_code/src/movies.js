@@ -19,20 +19,39 @@
 // }
 // console.log(turnHoursToMinutes(movies))
 
-function turnHoursToMinutes(array) {
-  var newarray = array.map(function (element) {
-    return {
-      title: element.title,
-      year: element.year,
-      director: element.director,
-      duration: parseInt(element.duration.substring(0)) * 60 + parseInt(element.duration.substring(3, 5)),
-      genre: element.genre,
-      rate: element.rate
-    }
-  })
-  return newarray;
-}
+// function turnHoursToMinutes(array) {
+//   var newarray = array.map(function (element) {
+//     return {
+//       title: element.title,
+//       year: element.year,
+//       director: element.director,
+//       duration: parseInt(element.duration.substring(0)) * 60 + parseInt(element.duration.substring(3, 5)),
+//       genre: element.genre,
+//       rate: element.rate
+//     }
+//   })
+//   return newarray;
+// }
 
+function turnHoursToMinutes(moviesArray) {
+  return moviesArray.map(function (elem) {
+    let hours = 0;
+    let minutes = 0;
+    if (elem.duration.includes("h")) {
+      hours = parseInt(elem.duration[0], 10) * 60;
+    }
+    if (elem.duration.includes("min")) {
+      minutes = parseInt(
+        elem.duration.substring(
+          elem.duration.length - 5,
+          elem.duration.length - 3
+        ),
+        10
+      );
+    }
+    return Object.assign({}, elem, { duration: hours + minutes });
+  });
+}
 
 
 
